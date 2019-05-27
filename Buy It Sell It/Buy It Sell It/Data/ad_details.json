@@ -1,0 +1,80 @@
+{
+    "ad_details":[{
+                  "id":0,
+                  "name":"Fiyat",
+                  "value":"345.56"
+                  },{
+                  "id":0,
+                  "name":"İlan Tarihi",
+                  "value":"01.01.2018"
+                  },{
+                  "id":0,
+                  "name":"İlan No",
+                  "value":"24234343"
+                  },{
+                  "id":0,
+                  "name":"Emlak Tipi",
+                  "value":"Satılık Daire"
+                  },{
+                  "id":0,
+                  "name":"m²",
+                  "value":"210"
+                  },{
+                  "id":0,
+                  "name":"Oda Sayısı",
+                  "value":"4+1"
+                  },{
+                  "id":0,
+                  "name":"Bina Yaşı",
+                  "value":"0"
+                  },{
+                  "id":0,
+                  "name":"Bulunduğu Kat",
+                  "value":"1"
+                  },{
+                  "id":0,
+                  "name":"Kat Sayısı",
+                  "value":"17"
+                  },{
+                  "id":0,
+                  "name":"Isıtma",
+                  "value":"Merkezi (Pay Ölçer)"
+                  },{
+                  "id":0,
+                  "name":"Banyo Sayısı",
+                  "value":"2"
+                  },{
+                  "id":0,
+                  "name":"Balkon",
+                  "value":"Belirtilmemiş"
+                  },{
+                  "id":0,
+                  "name":"Eşyalı",
+                  "value":"Hayır"
+                  },{
+                  "id":0,
+                  "name":"Kullanım Durumu",
+                  "value":"Boş"
+                  },{
+                  "id":0,
+                  "name":"Site İçerisinde",
+                  "value":"Hayır"
+                  },{
+                  "id":0,
+                  "name":"Aidat (TL)",
+                  "value":"Belirtilmemiş"
+                  },{
+                  "id":0,
+                  "name":"Site Adı",
+                  "value":"Belirtilmemiş"
+                  },{
+                  "id":0,
+                  "name":"Krediye Uygun",
+                  "value":"Evet"
+                  },{
+                  "id":0,
+                  "name":"Takas",
+                  "value":"Evet"
+                  }
+    ]
+}

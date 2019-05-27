@@ -1,0 +1,16 @@
+{
+    "id":0,
+    "type":"choose",
+    "name":"contacts",
+    "display":"İletişim Tercihleri",
+    "items":[{
+             "id":1,
+             "display":"Uygulama İçi Mesaj"
+             },{
+             "id":2,
+             "display":"Telefon"
+             },{
+             "id":3,
+             "display":"Telefon ve Uygulama içi Mesaj"
+             }]
+}

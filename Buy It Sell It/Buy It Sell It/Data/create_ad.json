@@ -1,0 +1,76 @@
+{
+    "create_ad_elements":[{
+                  "id":0,
+                  "type":"input",
+                  "name":"title",
+                  "display":"İlan Başlığı",
+                  "items":[]
+                  },{
+                  "id":0,
+                  "type":"input",
+                  "name":"description",
+                  "display":"Açıklama",
+                  "items":[]
+                  },{
+                  "id":0,
+                  "type":"input",
+                  "name":"price",
+                  "display":"Fiyat",
+                  "items":[]
+                  },{
+                  "id":0,
+                  "type":"input",
+                  "name":"area",
+                  "display":"m²",
+                  "items":[]
+                  },{
+                  "id":0,
+                  "type":"selection",
+                  "name":"number_of_room",
+                  "display":"Oda Sayısı",
+                  "items":[{
+                           "id":0,
+                           "display":"Stüdyo (1+0)"
+                           },{
+                           "id":0,
+                           "display":"1+1"
+                           },{
+                           "id":0,
+                           "display":"2+1"
+                           },{
+                           "id":0,
+                           "display":"3+1"
+                           },{
+                           "id":0,
+                           "display":"3+2"
+                           },{
+                           "id":0,
+                           "display":"4+1"
+                           }]
+                  },{
+                  "id":0,
+                  "type":"selection",
+                  "name":"age_of_build",
+                  "display":"Bina Yaşı",
+                  "items":[{
+                           "id":0,
+                           "display":"0"
+                           },{
+                           "id":0,
+                           "display":"1"
+                           },{
+                           "id":0,
+                           "display":"2"
+                           },{
+                           "id":0,
+                           "display":"3"
+                           },{
+                           "id":0,
+                           "display":"4"
+                           },{
+                           "id":0,
+                           "display":"5-10 arası"
+                           }]
+                  }
+    ]
+}

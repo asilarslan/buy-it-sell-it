@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (4.4.0)
+  - FTImageSize (0.0.4)
+  - IQKeyboardManagerSwift (5.0.0)
+  - libwebp (0.6.0):
+    - libwebp/core (= 0.6.0)
+    - libwebp/dec (= 0.6.0)
+    - libwebp/demux (= 0.6.0)
+    - libwebp/dsp (= 0.6.0)
+    - libwebp/enc (= 0.6.0)
+    - libwebp/mux (= 0.6.0)
+    - libwebp/utils (= 0.6.0)
+    - libwebp/webp (= 0.6.0)
+  - libwebp/core (0.6.0):
+    - libwebp/webp
+  - libwebp/dec (0.6.0):
+    - libwebp/core
+  - libwebp/demux (0.6.0):
+    - libwebp/core
+  - libwebp/dsp (0.6.0):
+    - libwebp/core
+  - libwebp/enc (0.6.0):
+    - libwebp/core
+  - libwebp/mux (0.6.0):
+    - libwebp/core
+  - libwebp/utils (0.6.0):
+    - libwebp/core
+  - libwebp/webp (0.6.0)
+  - LinearProgressBar (1.0.1)
+  - SDWebImage/Core (4.2.2)
+  - SDWebImage/WebP (4.2.2):
+    - libwebp
+    - SDWebImage/Core
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - FTImageSize (~> 0.0.4)
+  - IQKeyboardManagerSwift (= 5.0.0)
+  - LinearProgressBar
+  - SDWebImage/WebP
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  FTImageSize: 29c6fc0830dbe33973286148a8e32cd582a9f26d
+  IQKeyboardManagerSwift: 3f340202ebe1a7076279b9b9b3c817243ddb3aab
+  libwebp: 1d5a07c2eb97f9c31bd5f154bb82efc0ea67c6a2
+  LinearProgressBar: f6a74dbabed229dbb1a7978089e2e4317a3a0ee0
+  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: d4fef0361955419c08de29ef440cbd189d520b65
+
+COCOAPODS: 1.4.0

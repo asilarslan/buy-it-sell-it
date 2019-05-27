@@ -1,0 +1,496 @@
+{
+    "categories":[
+    {
+        "id":1,
+        "name":"Emlak",
+         "number_of_items":15,
+        "description":"Konut, İşyeri, Arsa, Projeler, Bina",
+        "icon":"icon_estate",
+        "childs":[
+                {
+                    "id":1,
+                    "name":"Konut",
+                    "number_of_items":15,
+                    "description":null,
+                    "icon":null,
+                    "childs":[
+                              {
+                              "id":1,
+                              "name":"Satılık",
+                              "number_of_items":15,
+                              "description":null,
+                              "icon":null,
+                              "childs":[
+                                        {
+                                        "id":1,
+                                        "name":"Daire",
+                                        "number_of_items":15,
+                                        "description":null,
+                                        "icon":null,
+                                        "childs":[]
+                                        },
+                                        {
+                                        "id":1,
+                                        "name":"Residence",
+                                        "number_of_items":15,
+                                        "description":null,
+                                        "icon":null,
+                                        "childs":[]
+                                        }
+                                        ]
+                              },
+                              {
+                              "id":1,
+                              "name":"Kiralık",
+                              "number_of_items":15,
+                              "description":null,
+                              "icon":null,
+                              "childs":[
+                                        {
+                                        "id":1,
+                                        "name":"Daire",
+                                        "number_of_items":15,
+                                        "description":null,
+                                        "icon":null,
+                                        "childs":[]
+                                        },
+                                        {
+                                        "id":1,
+                                        "name":"Residence",
+                                        "number_of_items":15,
+                                        "description":null,
+                                        "icon":null,
+                                        "childs":[]
+                                        }
+                                        ]
+                              }
+                          ]
+                },
+                {
+                    "id":1,
+                    "name":"İş Yeri",
+                    "number_of_items":15,
+                    "description":null,
+                    "icon":null,
+                    "childs":[{
+                            "id":1,
+                            "name":"Satılık",
+                              "number_of_items":15,
+                            "description":null,
+                            "icon":null,
+                            "childs":[
+                                      {
+                                      "id":1,
+                                      "name":"Akaryakıt İstasyonu",
+                                      "number_of_items":15,
+                                      "description":null,
+                                      "icon":null,
+                                      "childs":[]
+                                      },
+                                      {
+                                      "id":1,
+                                      "name":"Apartman Dairesi",
+                                      "number_of_items":15,
+                                      "description":null,
+                                      "icon":null,
+                                      "childs":[]
+                                      }
+                                      ]
+                            },
+                            {
+                            "id":1,
+                            "name":"Kiralık",
+                              "number_of_items":15,
+                            "description":null,
+                            "icon":null,
+                            "childs":[
+                                      {
+                                      "id":1,
+                                      "name":"Akaryakıt İstasyonu",
+                                      "number_of_items":15,
+                                      "description":null,
+                                      "icon":null,
+                                      "childs":[]
+                                      },
+                                      {
+                                      "id":1,
+                                      "name":"Apartman Dairesi",
+                                      "number_of_items":15,
+                                      "description":null,
+                                      "icon":null,
+                                      "childs":[]
+                                      }
+                                      ]
+                            }]
+                }
+            ]
+                  },
+                  {
+                  "id":1,
+                  "name":"Vasıta",
+                  "number_of_items":15,
+                  "description":"Otomobil, Arazi, SUV & Pick-up",
+                  "number_of_items":15,
+                  "icon":"icon_vehicle",
+                  "childs":[{
+                            "id":1,
+                            "name":"Otomobil",
+                            "number_of_items":15,
+                            "description":null,
+                            "icon":null,
+                            "childs":[{
+                                      "id":1,
+                                      "name":"Alfa Romeo",
+                                      "number_of_items":15,
+                                      "description":null,
+                                      "icon":null,
+                                      "childs":[{
+                                                "id":1,
+                                                "name":"Giulia",
+                                                "number_of_items":15,
+                                                "description":null,
+                                                "icon":null,
+                                                "childs":[{
+                                                          "id":1,
+                                                          "name":"2.0",
+                                                          "number_of_items":15,
+                                                          "description":null,
+                                                          "icon":null,
+                                                          "childs":[]
+                                                          }]
+                                                },
+                                                {
+                                                "id":1,
+                                                "name":"Giulietta",
+                                                "number_of_items":15,
+                                                "description":null,
+                                                "icon":null,
+                                                "childs":[{
+                                                          "id":1,
+                                                          "name":"1.4 TB",
+                                                          "number_of_items":15,
+                                                          "description":null,
+                                                          "icon":null,
+                                                          "childs":[]
+                                                          },
+                                                          {
+                                                          "id":1,
+                                                          "name":"1.6 JTD",
+                                                          "number_of_items":15,
+                                                          "description":null,
+                                                          "icon":null,
+                                                          "childs":[]
+                                                          }]
+                                                },
+                                                {
+                                                "id":1,
+                                                "name":"MiTo",
+                                                "number_of_items":15,
+                                                "description":null,
+                                                "icon":null,
+                                                "childs":[{
+                                                          "id":1,
+                                                          "name":"1.3 JTD",
+                                                          "number_of_items":15,
+                                                          "description":null,
+                                                          "icon":null,
+                                                          "childs":[]
+                                                          },
+                                                          {
+                                                          "id":1,
+                                                          "name":"1.4 T",
+                                                          "number_of_items":15,
+                                                          "description":null,
+                                                          "icon":null,
+                                                          "childs":[]
+                                                          }]
+                                                }]
+                                      },
+                                      {
+                                      "id":1,
+                                      "name":"Audi",
+                                      "number_of_items":15,
+                                      "description":null,
+                                      "icon":null,
+                                      "childs":[{
+                                                "id":1,
+                                                "name":"A1",
+                                                "number_of_items":15,
+                                                "description":null,
+                                                "icon":null,
+                                                "childs":[{
+                                                          "id":1,
+                                                          "name":"1.0 TFSI",
+                                                          "number_of_items":15,
+                                                          "description":null,
+                                                          "icon":null,
+                                                          "childs":[]
+                                                          },
+                                                          {
+                                                          "id":1,
+                                                          "name":"1.4 TFSI",
+                                                          "number_of_items":15,
+                                                          "description":null,
+                                                          "icon":null,
+                                                          "childs":[]
+                                                          }]
+                                                },
+                                                {
+                                                "id":1,
+                                                "name":"A3",
+                                                "number_of_items":15,
+                                                "description":null,
+                                                "icon":null,
+                                                "childs":[{
+                                                          "id":1,
+                                                          "name":"A3 Cabrio",
+                                                          "number_of_items":15,
+                                                          "description":null,
+                                                          "icon":null,
+                                                          "childs":[{
+                                                                    "id":1,
+                                                                    "name":"1.4 TFSI",
+                                                                    "number_of_items":15,
+                                                                    "description":null,
+                                                                    "icon":null,
+                                                                    "childs":[]
+                                                                    },
+                                                                    {
+                                                                    "id":1,
+                                                                    "name":"1.8 TFSI",
+                                                                    "number_of_items":15,
+                                                                    "description":null,
+                                                                    "icon":null,
+                                                                    "childs":[]
+                                                                    }]
+                                                          },
+                                                          {
+                                                          "id":1,
+                                                          "name":"A3 Hatchback",
+                                                          "number_of_items":15,
+                                                          "description":null,
+                                                          "icon":null,
+                                                          "childs":[{
+                                                                    "id":1,
+                                                                    "name":"1.4 TFSI",
+                                                                    "number_of_items":15,
+                                                                    "description":null,
+                                                                    "icon":null,
+                                                                    "childs":[]
+                                                                    },
+                                                                    {
+                                                                    "id":1,
+                                                                    "name":"1.6",
+                                                                    "number_of_items":15,
+                                                                    "description":null,
+                                                                    "icon":null,
+                                                                    "childs":[]
+                                                                    }]
+                                                          }]
+                                                },
+                                                {
+                                                "id":1,
+                                                "name":"A4",
+                                                "number_of_items":15,
+                                                "description":null,
+                                                "icon":null,
+                                                "childs":[{
+                                                          "id":1,
+                                                          "name":"A4 Cabrio",
+                                                          "number_of_items":15,
+                                                          "description":null,
+                                                          "icon":null,
+                                                          "childs":[{
+                                                                    "id":1,
+                                                                    "name":"1.8 T",
+                                                                    "number_of_items":15,
+                                                                    "description":null,
+                                                                    "icon":null,
+                                                                    "childs":[]
+                                                                    },
+                                                                    {
+                                                                    "id":1,
+                                                                    "name":"2.0 TFSI",
+                                                                    "number_of_items":15,
+                                                                    "description":null,
+                                                                    "icon":null,
+                                                                    "childs":[]
+                                                                    }]
+                                                          },
+                                                          {
+                                                          "id":1,
+                                                          "name":"A4 Sedan",
+                                                          "number_of_items":15,
+                                                          "description":null,
+                                                          "icon":null,
+                                                          "childs":[{
+                                                                    "id":1,
+                                                                    "name":"1.4 TFSI",
+                                                                    "number_of_items":15,
+                                                                    "description":null,
+                                                                    "icon":null,
+                                                                    "childs":[]
+                                                                    },
+                                                                    {
+                                                                    "id":1,
+                                                                    "name":"1.4 TFSI Design",
+                                                                    "number_of_items":15,
+                                                                    "description":null,
+                                                                    "icon":null,
+                                                                    "childs":[]
+                                                                    }]
+                                                          }]
+                                                }]
+                                      },
+                                      {
+                                      "id":1,
+                                      "name":"BMW",
+                                      "number_of_items":15,
+                                      "description":null,
+                                      "icon":null,
+                                      "childs":[{
+                                                "id":1,
+                                                "name":"1 Serisi",
+                                                "number_of_items":15,
+                                                "description":null,
+                                                "icon":null,
+                                                "childs":[{
+                                                          "id":1,
+                                                          "name":"116d",
+                                                          "number_of_items":15,
+                                                          "description":null,
+                                                          "icon":null,
+                                                          "childs":[{
+                                                                    "id":1,
+                                                                    "name":"Standart",
+                                                                    "number_of_items":15,
+                                                                    "description":null,
+                                                                    "icon":null,
+                                                                    "childs":[]
+                                                                    },
+                                                                    {
+                                                                    "id":1,
+                                                                    "name":"Comfort",
+                                                                    "number_of_items":15,
+                                                                    "description":null,
+                                                                    "icon":null,
+                                                                    "childs":[]
+                                                                    }]
+                                                          },
+                                                          {
+                                                          "id":1,
+                                                          "name":"116d ED",
+                                                          "number_of_items":15,
+                                                          "description":null,
+                                                          "icon":null,
+                                                          "childs":[{
+                                                                    "id":1,
+                                                                    "name":"Comfort",
+                                                                    "number_of_items":15,
+                                                                    "description":null,
+                                                                    "icon":null,
+                                                                    "childs":[]
+                                                                    },
+                                                                    {
+                                                                    "id":1,
+                                                                    "name":"EfficientDynamics",
+                                                                    "number_of_items":15,
+                                                                    "description":null,
+                                                                    "icon":null,
+                                                                    "childs":[]
+                                                                    }]
+                                                          }]
+                                                },
+                                                {
+                                                "id":1,
+                                                "name":"2 Serisi",
+                                                "number_of_items":15,
+                                                "description":null,
+                                                "icon":null,
+                                                "childs":[]
+                                                },
+                                                {
+                                                "id":1,
+                                                "name":"3 Serisi",
+                                                "number_of_items":15,
+                                                "description":null,
+                                                "icon":null,
+                                                "childs":[]
+                                                }]
+                                      }]
+                            },
+                            {
+                            "id":1,
+                            "name":"Arazi, SUV & Pick-up",
+                            "number_of_items":15,
+                            "description":null,
+                            "icon":null,
+                            "childs":[]
+                            }]
+                  },
+                  {
+                  "id":1,
+                  "name":"Yedek Parça, Aksesuar, Donanım ve Tuning",
+                  "number_of_items":15,
+                  "description":"Otomotiv Ekipmanları, Motorsiklet Ekipmanları",
+                  "icon":"icon_spare",
+                  "childs":[]
+                  },
+                  {
+                  "id":1,
+                  "name":"İkinci El ve Sıfır Alışveriş",
+                  "number_of_items":15,
+                  "description":"Konut, İşyeri, Arsa, Projeler, Bina",
+                  "icon":"icon_shopping",
+                  "childs":[]
+                  },
+                  {
+                  "id":1,
+                  "name":"İş Makineleri ve Sanayi",
+                  "number_of_items":15,
+                  "description":"Konut, İşyeri, Arsa, Projeler, Bina",
+                  "icon":"icon_tractor",
+                  "childs":[]
+                  },
+                  {
+                  "id":1,
+                  "name":"Ustalar ve Hizmetler",
+                  "number_of_items":15,
+                  "description":"Ustalar ve Hizmetler",
+                  "icon":"icon_tool",
+                  "childs":[]
+                  },
+                  {
+                  "id":1,
+                  "name":"Özel Ders Verenler",
+                  "number_of_items":15,
+                  "description":"Özel Ders Verenler",
+                  "icon":"icon_book",
+                  "childs":[]
+                  },
+                  {
+                  "id":1,
+                  "name":"İş İlanları",
+                  "number_of_items":15,
+                  "description":"İş İlanları",
+                  "icon":"icon_work",
+                  "childs":[]
+                  },
+                  {
+                  "id":1,
+                  "name":"Yardımcı Arayanlar",
+                  "number_of_items":15,
+                  "description":"Yardımcı Arayanlar",
+                  "icon":"icon_helper",
+                  "childs":[]
+                  },
+                  {
+                  "id":1,
+                  "name":"Hayvanlar Alemi",
+                  "number_of_items":15,
+                  "description":"Yardımcı Arayanlar",
+                  "icon":"icon_paw",
+                  "childs":[]
+                  }
+    ]
+}

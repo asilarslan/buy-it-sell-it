@@ -1,0 +1,125 @@
+{
+    "advertisements":[
+              {
+                  "id":1,
+                      "images":["http://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_80/4147-23/the-hesby-apartments-exterior.jpg"],
+                  "name":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.",
+                  "location":"Aydın, Kuş Adası",
+                  "price":475.000,
+                  "description":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.",
+                  "contactType":1,
+                  "user":{
+                      "id":0,
+                      "name":"Asil Arslan",
+                      "image":"https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAMAAgDGAAwAAQAAAAAAAAs1AAAAJGQ0ZjBhMWVlLTIwMWEtNDJlOC1hY2YxLWM4YmUzYmY2YzkzOQ.jpg"
+                      }
+                  },{
+                  "id":1,
+                  "images":["http://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_80/3984-54/cityview-at-longwood-apartments-exterior.jpg","https://www.adinahotels.com/wp-content/uploads/sites/4/2016/09/Adina-Apartment-Hotel-Auckland-two-bedroom.109-1.jpg"],
+                  "name":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.",
+                  "location":"Aydın, Kuş Adası",
+                  "price":475.000,
+                  "description":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.",
+                  "contactType":2,
+                  "user":{
+                      "id":0,
+                      "name":"Asil Arslan",
+                      "image":"https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAMAAgDGAAwAAQAAAAAAAAs1AAAAJGQ0ZjBhMWVlLTIwMWEtNDJlOC1hY2YxLWM4YmUzYmY2YzkzOQ.jpg"
+                      }
+                  },{
+                  "id":1,
+                  "images":["http://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_80/4206-28/the-kelvin-apartments-exterior.jpg"],
+                  "name":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.",
+                  "location":"Aydın, Kuş Adası",
+                  "price":475.000,
+                  "description":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.",
+                  "contactType":3,
+                  "user":{
+                      "id":0,
+                      "name":"Asil Arslan",
+                      "image":"https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAMAAgDGAAwAAQAAAAAAAAs1AAAAJGQ0ZjBhMWVlLTIwMWEtNDJlOC1hY2YxLWM4YmUzYmY2YzkzOQ.jpg"
+                      }
+                  },{
+                  "id":1,
+                      "images":["http://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_80/4037-24/riverpark-apartments-exterior.jpg",
+                                "http://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_80/4037-24/riverpark-apartments-exterior.jpg",
+                                "http://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_80/4037-24/riverpark-apartments-exterior.jpg"],
+                  "name":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.",
+                                "location":"Aydın, Kuş Adası",
+                  "price":475.000,
+                  "description":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.",
+                  "contactType":1,
+                  "user":{
+                      "id":0,
+                      "name":"Asil Arslan",
+                      "image":"https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAMAAgDGAAwAAQAAAAAAAAs1AAAAJGQ0ZjBhMWVlLTIwMWEtNDJlOC1hY2YxLWM4YmUzYmY2YzkzOQ.jpg"
+                      }
+                  },{
+                  "id":1,
+                  "images":["https://ar.rdcpix.com/1687012685/834df9c0032f996cc91c3fac0c7201f0c-f0xd-w480_h480_q80.jpg"],
+                  "name":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.",
+                  "location":"Aydın, Kuş Adası",
+                  "price":475.000,
+                  "description":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.",
+                      "contactType":1,
+                  "user":{
+                      "id":0,
+                      "name":"Asil Arslan",
+                      "image":"https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAMAAgDGAAwAAQAAAAAAAAs1AAAAJGQ0ZjBhMWVlLTIwMWEtNDJlOC1hY2YxLWM4YmUzYmY2YzkzOQ.jpg"
+                      }
+                  },{
+                  "id":1,
+                  "images":["http://www.3dpower.in/images/apartment-rendering/full/apartment%20walkthrough.jpg"],
+                  "name":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.",
+                  "location":"Aydın, Kuş Adası",
+                  "price":475.000,
+                  "description":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.",
+                      "contactType":1,
+                  "user":{
+                      "id":0,
+                      "name":"Asil Arslan",
+                      "image":"https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAMAAgDGAAwAAQAAAAAAAAs1AAAAJGQ0ZjBhMWVlLTIwMWEtNDJlOC1hY2YxLWM4YmUzYmY2YzkzOQ.jpg"
+                      }
+                  },{
+                  "id":1,
+                  "images":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtCvNj8YYWy18LiHvEdKRJwedfoAQq6-xNS5PvQl0us56D7ND"],
+                  "name":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.",
+                  "location":"Aydın, Kuş Adası",
+                  "price":475.000,
+                  "description":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.",
+                      "contactType":1,
+                  "user":{
+                      "id":0,
+                      "name":"Asil Arslan",
+                      "image":"https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAMAAgDGAAwAAQAAAAAAAAs1AAAAJGQ0ZjBhMWVlLTIwMWEtNDJlOC1hY2YxLWM4YmUzYmY2YzkzOQ.jpg"
+                      }
+                  },{
+                  "id":1,
+                  "images":["http://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_80/3639-12/mosaic-at-metro-apartments-swimming-pool.jpg"],
+                  "name":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.",
+                  "location":"Aydın, Kuş Adası",
+                  "price":475.000,
+                  "description":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.",
+                      "contactType":1,
+                  "user":{
+                      "id":0,
+                      "name":"Asil Arslan",
+                      "image":"https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAMAAgDGAAwAAQAAAAAAAAs1AAAAJGQ0ZjBhMWVlLTIwMWEtNDJlOC1hY2YxLWM4YmUzYmY2YzkzOQ.jpg"
+                      }
+                  },{
+                  "id":1,
+                  "images":["https://media.tfehotels.com/media/filer_public_thumbnails/filer_public/c2/95/c295a7fb-b7e2-4788-b4c1-5736273399d1/adina-apartment-hotel-auckland-britomart-three-bedroom-premier-apartment-lounge-room-01-2017109-1.jpg__1230x615_q85_crop_subsampling-2_upscale.jpg"],
+                  "name":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.",
+                  "location":"Aydın, Kuş Adası",
+                  "price":475.000,
+                  "description":"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.",
+                      "contactType":1,
+                  "user":{
+                      "id":0,
+                      "name":"Asil Arslan",
+                      "image":"https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAMAAgDGAAwAAQAAAAAAAAs1AAAAJGQ0ZjBhMWVlLTIwMWEtNDJlOC1hY2YxLWM4YmUzYmY2YzkzOQ.jpg"
+                      }
+                  }
+    
+    ]
+}
