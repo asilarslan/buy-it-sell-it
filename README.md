@@ -10,6 +10,17 @@ This application is the clone of the most used ecommerce application.
 |:-----------------------------:|:-----------------------------:|
 | ![Buy It Sell It Template Screenshot 3](https://github.com/asilarslan/buy-it-sell-it/blob/master/screenshots/3.png)| ![Buy It Sell It Template Screenshot 4](https://github.com/asilarslan/buy-it-sell-it/blob/master/screenshots/4.png)|
 
+| First Step Screen          | Second Step Screen             |
+|:-----------------------------:|:-----------------------------:|
+| ![Buy It Sell It Template Screenshot 5](https://github.com/asilarslan/buy-it-sell-it/blob/master/screenshots/8.png)| ![Buy It Sell It Template Screenshot 6](https://github.com/asilarslan/buy-it-sell-it/blob/master/screenshots/9.png)|
+
+| Thirth Step Screen          | Fourth Step Screen             |
+|:-----------------------------:|:-----------------------------:|
+| ![Buy It Sell It Template Screenshot 7](https://github.com/asilarslan/buy-it-sell-it/blob/master/screenshots/10.png)| ![Buy It Sell It Template Screenshot 8](https://github.com/asilarslan/buy-it-sell-it/blob/master/screenshots/11.png)|
+
+| Post Preview Screen          | User Screen             |
+|:-----------------------------:|:-----------------------------:|
+| ![Buy It Sell It Template Screenshot 9](https://github.com/asilarslan/buy-it-sell-it/blob/master/screenshots/12.png)| ![Buy It Sell It Template Screenshot 10](https://github.com/asilarslan/buy-it-sell-it/blob/master/screenshots/13.png)|
 
 Pre-requisites
 --------------
