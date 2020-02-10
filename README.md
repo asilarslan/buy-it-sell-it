@@ -1,6 +1,6 @@
 # Buy It Sell It Template
 
-This application is the clone of the most used ecommerce application.
+This application is the clone of the most used ecommerce application. (like sahibinden.com)
 
 | Main Screen          | Ad Detail             |
 |:-----------------------------:|:-----------------------------:|
